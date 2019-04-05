@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vjezba2.1_matematicki_izraz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primjer_6_2", "primjer_6_2\primjer_6_2.csproj", "{D0210368-6232-49DF-ADF8-819DC027EA0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primjer7.1.1_izdavanje_racuna_kontrola_gresaka", "primjer7.1.1_izdavanje_racuna_kontrola_gresaka\primjer7.1.1_izdavanje_racuna_kontrola_gresaka.csproj", "{7692E520-7AF8-4AC0-9001-B3CA1E810574}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D0210368-6232-49DF-ADF8-819DC027EA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0210368-6232-49DF-ADF8-819DC027EA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0210368-6232-49DF-ADF8-819DC027EA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7692E520-7AF8-4AC0-9001-B3CA1E810574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7692E520-7AF8-4AC0-9001-B3CA1E810574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7692E520-7AF8-4AC0-9001-B3CA1E810574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7692E520-7AF8-4AC0-9001-B3CA1E810574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
