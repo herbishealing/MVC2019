@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\SqlCommandObjektController.cs" />
     <Compile Include="Controllers\SqlConnectionObjektController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -104,6 +105,7 @@
     <Content Include="packages.config" />
     <Content Include="Views\SqlConnectionObjekt\Index.cshtml" />
     <Content Include="Views\SqlConnectionObjekt\PrekoWebConfig.cshtml" />
+    <Content Include="Views\SqlCommandObjekt\Create.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
