@@ -3,9 +3,8 @@ using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
+using System.Data;
 
 namespace ADO_NET_Komponente.Controllers
 {
@@ -65,7 +64,7 @@ namespace ADO_NET_Komponente.Controllers
                 conn.Dispose();
                 cm.Dispose();
             }
-            retun View(lstPolaznici);
+            return View(lstPolaznici);
 
         }
     }
