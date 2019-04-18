@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShop", "WebShop\WebShop.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPIT", "ISPIT\ISPIT.csproj", "{37A2261D-600D-42C3-92AE-8054AF41FA39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poklon", "Poklon\Poklon.csproj", "{462A27B1-7D41-4C98-B565-937FA69C3AC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{37A2261D-600D-42C3-92AE-8054AF41FA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37A2261D-600D-42C3-92AE-8054AF41FA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37A2261D-600D-42C3-92AE-8054AF41FA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462A27B1-7D41-4C98-B565-937FA69C3AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462A27B1-7D41-4C98-B565-937FA69C3AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462A27B1-7D41-4C98-B565-937FA69C3AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462A27B1-7D41-4C98-B565-937FA69C3AC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
